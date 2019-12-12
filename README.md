@@ -1,4 +1,4 @@
-# FlaskCurrencyApp
+# Flask Currency App
 ## Built With
 
 * Flask  
